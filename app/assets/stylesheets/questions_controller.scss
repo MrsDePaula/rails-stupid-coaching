@@ -1,0 +1,22 @@
+// Place all the styles related to the QuestionsController controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #301014;
+  background-color: #EDF4ED;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link {
+  color: #ABD1B5;
+}
+
+a:visited {
+  color: #79B791;
+}
